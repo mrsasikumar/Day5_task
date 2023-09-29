@@ -1,0 +1,98 @@
+{
+    "settings": {
+        "icons" : true
+    },
+    "firstname": "Sasi kumar",
+    "Lastname": "Chanthiran",
+    "Email_id": "sasikumarchanthiran3@gmail.com",
+    "github_id": "mrsasikumar",
+    "bio_data": {
+        "Linked in": "Sasikumar Chanthiran",
+        "phone": "7094885106",
+        "stars": ["weaveing","IndustrialEngineering","sizing"],
+	"summary": {
+		"points":[
+		"Hard worker, quick learner, and Responsible"
+		]
+	},
+        "skills": {
+            "details": [
+                {
+                    "type": "production",
+                    "items": [
+                        "MMR & CPM",
+                        "SAH & EFFICENCY",
+                        "SHIPMENT",
+                        "COST" 
+                    ]
+                },
+                {
+                    "type": "INDURIAL ENGINEERING",
+                    "items": [
+                        "LEAN MANAGEMENT",
+                        "FIVE S"
+                    ]
+                }
+                
+                    ]
+                }
+            
+        },
+        "education": {
+	    "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "Bachelor of Technology",
+                    "major": "Textile Technology",
+                    "institution": "Park college of Engineering and Technology",
+                    "graduation_year": 2021,
+                    "gpa": "7.8"
+                }
+            ]
+        },
+        "experience": {
+            "items": 
+                {
+                    "title": "Industial Engineer",
+                    "organisation": "Scm garments pvt.limited",
+		    "location": "Tirupur",
+                    "from": "sept 2021",
+                    "to": "OCt 2022",
+                    "details": [
+                        "Ensure on time production , Problem solving and focus on Efficency&costing"
+                    ]
+                },
+      
+            
+                    "title": "Indurial Engineer",
+                    "organisation": "Best Tech clothing pvt.limited",
+		    "location": "Avinasi",
+                    "from": "Oct2022",
+                    "to": "Aug 2023",
+                    "details": [
+                        "Worked on LEAN projects.Developed and Improved features for the same"
+                    ]
+                    
+                        
+                    }
+                }
+               
+        
+               
+               
+        
+        
+            
+                
+            
+            
+        
+		   
+	
+	
+    
+
+    
+    
+
+        
